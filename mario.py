@@ -9,4 +9,4 @@ while True:
 # print pyramide
 for i in range(height):
     print(" " * (height - i - 1), end="")
-    print("#" * (i + 2))
+    print("#" * (i + 1))
